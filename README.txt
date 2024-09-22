@@ -4,7 +4,7 @@ This was my final year project for my BSc in Computer Science which achieved a f
 
 I developed a game which demonstrates various search alogrithms and scored these algorithms based on efficiency (Least amount of steps taken to reach the goal).
 
-Check out my final report [here](RHUL-FYP/LeonardoDaSilva.Final.pdf)
+Check out my final report ([here](RHUL-FYP/LeonardoDaSilva.Final.pdf))
 
 To play the game just open the "Maze Game Project" application inside the GAME folder and it will run itself.
 
