@@ -13,3 +13,5 @@ Press quit in the main menu, during simulation or ALT + F4 to close the game
 
 I have included the scripts for the files I edited myself. The player mode was not implemented as I didn't have enough time, 
 that goes the same for the minimax algorithm for all the sizes in single and multi agents.
+
+Also, ignore the numbering for the contents page (forgot to update the numbering after finishing).
